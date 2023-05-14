@@ -1,0 +1,29 @@
+body{
+  /*  border: 2px solid rgba(156, 68, 156, 0.849);*/
+    padding: 30px;
+    background: rgba(115, 193, 223, 0.411);
+    /*background: linear-gradient(0deg, rgba(128, 171, 196, 0.548) , rgba(125, 120, 223, 0.568) , rgba(131, 127, 212, 0.582));
+    background-repeat:no-repeat;
+    background-size: cover;*/
+}
+
+h1{
+    text-align: center;
+    border: solid 2px gray;
+    padding: 1rem;
+}
+h3{
+    text-decoration: underline;
+    margin: 4px;
+}
+.project{
+    display: flex;
+    border: solid 2px black;
+    margin: 2px solid red;
+    padding: 2px solid ;
+}
+.edu{
+    display: contents;
+    border:solid 2px black;
+    margin: 2px solid red;
+}
